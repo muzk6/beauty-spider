@@ -1,5 +1,3 @@
-var webpack = require('webpack');
-
 var config = {
     entry: {
         app: ['babel-polyfill', './index'],
